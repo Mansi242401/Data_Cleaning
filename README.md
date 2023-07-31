@@ -17,4 +17,4 @@ Here, i am using three csv files as my input namely :
 
 For this project I have used python in jupyter notebooks to systematically clean the dataset. You can learn basics about jupyter notebook here - https://www.youtube.com/watch?v=IMrxB8Mq5KU
 
-All csv files and jupyter notebooks are in this repository.Here is the [Code]()
+All csv files and jupyter notebooks are in this repository.Here is the [Code](https://github.com/Mansi242401/Data_Wrangling/blob/main/cleaning_patients_data.ipynb)
